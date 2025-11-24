@@ -1,9 +1,9 @@
 # Explorando la biblioteca Pandas
 
-Para trabajar con este cuaderno usé jupyter en local, por lo que no tuve
-problemas con mi entorno virtual predeterminado para usar pandas. Si no
-existiera entorno virtual, creamos uno nuevo para jupyter en la misma carpeta
-del proyecto: 
+Para usar este cuaderno es necesario disponer de un entorno virtual, con la
+biblioteca pandas intalada, al que jupiter pueda acoplarse. Si jupiter no tiene
+un entorno de trabajo predeterminado preparado con pandas, creamos uno nuevo 
+ejecutando los sisguientes comandos:
 
 ```bash
 python -m venv venv
